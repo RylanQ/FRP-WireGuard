@@ -1,4 +1,4 @@
-# **Complete Guide: VPN with Ubuntu 24.04 VM, WireGuard, and FRP**
+# **VPN with Ubuntu 24.04 VM, WireGuard, and FRP**
 ### **Bypass CGNAT & Securely Access Your Home Network**
 ---
 
